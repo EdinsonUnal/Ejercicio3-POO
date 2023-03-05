@@ -1,6 +1,6 @@
 # Ejercicio3-POO.
 
-## Ejercicio Propuesto No 12.
+## Ejercicio Propuesto No 12 - Libro Lógica de Programación de Efraín Oviedo.
 
 ### Hacer el siguiente algoritmo
 
